@@ -2,12 +2,12 @@ Curriculum vitae of Mitchell Jon Stanton-Cook
 ==============================================
 
 
-Hackatons etc.
---------------
+Hackathons etc.
+---------------
 
-`Mozilla Science Lab Global Sprint 2015`_ (2015): **UQ Site**. Worked on establishing infrustructure for Australian based library carpentry workshops.
+`Mozilla Science Lab Global Sprint 2015`_ (2015): **UQ Site**. Worked on establishing infrastructure for Australian based library carpentry workshops.
 
-Unearthed_ (2015): **Team RoockMe**. Developed an OpenCV based particle size classifier. Produced a working tool that was live demoed to the judges.
+Unearthed_ (2015): **Team RockMe**. Developed an OpenCV based particle size classifier. Produced a working tool that was live demoed to the judges.
 
 `TANDA hackathon`_ (2015): **Team Dark Magic**. Performed exploratory data analysis of TANDA's time and attendance data using python. Developed an interactive geolocated salary visualization tool. Backend was RethinkDB. Frontend was custom D3.js visualization.
 
