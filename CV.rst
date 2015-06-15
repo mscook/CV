@@ -31,7 +31,7 @@ Miscellaneous
 
 I designed, organised and facilitated the inaugural Australian MIcrobial GenOmics Symposium (AMIGOS_) hackathon. AMIGOS_ was a two day hackathon bringing together 45 Australian based Microbial Genomics researchers.
 
-I am a certified `Software Carpentry Instructor`_. Through Software Carpentry I teach researchers basic software skills(BASH shell, python programming, software revision control & and simple SQL databases). I am the lead instructor for a two day bootcamp `in July`.
+I am a certified `Software Carpentry Instructor`_. Through Software Carpentry I teach researchers basic software skills (BASH shell, python programming, software revision control and simple SQL databases). I am the lead instructor for a two day bootcamp `in July`.
 
 I am a co-organiser the `2015 HealthHack`_ in Brisbane. HealthHack is a data hack for medical researchers. The goal (in my opinion) is to bring to focus the importance of software engineers in medical research fields.
 
