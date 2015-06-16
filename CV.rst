@@ -12,7 +12,7 @@ This is my Curriculum Vitae. It is being rendered by GitHub. The plain text vers
 About
 -----
 
-**I am a data analyst focused on large biological datasets. I am employed as a Software Engineer and Linux Systems Administrator. I am also a Teaching Fellow (lecturer).**
+I am a data analyst focused on large biological datasets. I am employed as a Software Engineer and Linux Systems Administrator. I am also a Teaching Fellow (lecturer).
 
 DOB: 07/07/1983
 
@@ -67,10 +67,10 @@ Current Projects
 ----------------
 
 An exhaustive list is at GitHub_. However, the most active/interesting are:
-    * Banzai_ (public placeholder repository), a next generation sequencing pipeline tool to go from many raw sequencing reads to draft genomes in a rapid and efficient manner. Banzai removes the the HPC complexity from users. Employs the *Python fabric library*. Greater than 15K lines of code. 
-    * SeqFindr_, easily create informative genomic feature plots. It's a tool to detect the presence or absence of genomic features given a database describing these features and a set of draft and/or complete genomes. There have been SeqFindr spin-offs (SeqFindr-Web, plasmid-barcodes). Employs the *Python NumPy, SciPy, matplotlib and Biopython libraries*.
-    * pipelin.es_ (with A/Prof Torsten Seemann), Pipelin.es is a next generation sequencing data analysis pipeline evaluation tool using docker_ images.
-    * BanzaiDB_, a tool for pairing Microbial Genomics Next Generation Sequencing analysis with a NoSQL database (RethinkDB).
+    * Banzai_ (public placeholder repository): a next generation sequencing pipeline tool to go from many raw sequencing reads to draft genomes in a rapid and efficient manner. Banzai removes the complexity of the high performance computing environment from users. Employs the *Python fabric library*. Greater than 15K lines of code. 
+    * SeqFindr_: easily create informative genomic feature plots. It's a tool to detect the presence or absence of genomic features given a database describing these features and a set of draft and/or complete genomes. There have been SeqFindr spin-offs (SeqFindr-Web, plasmid-barcodes). Employs the *Python NumPy, SciPy, matplotlib and Biopython libraries*.
+    * pipelin.es_ (with A/Prof Torsten Seemann): Pipelin.es is a next generation sequencing data analysis pipeline evaluation tool using docker_ images.
+    * BanzaiDB_: a tool for pairing Microbial Genomics Next Generation Sequencing analysis with a NoSQL database (RethinkDB).
 
 .. _Banzai: https://github.com/mscook/Banzai-MicrobialGenomics-Pipeline
 .. _SeqFindr: https://github.com/mscook/SeqFindR
@@ -100,7 +100,7 @@ Familiar with databases NoSQL/SQL and ORM (RethinkDB, MongoDB/PostgreSQL, MySQL 
 
 Currently learning Apache Spark. Spark is fast and general engine for large-scale data processing.
 
-I will (generally) write my code in Python. The code will be stored in a git repository. Dependencies will be pinned using a requirements.txt file and all work will be carried out in a virtual environment. The code is unittested with py.test. Documentation is written with sphinx and a hook will be used to push it to Read the Docs. I apply continuous integration principles using Travis CI. The code quality is constantly evaluated using landscape.io. At release time bumpversion is used to semantically version the release, place a tag the  in the git repository before pushing the release to GitHub and PyPI.
+*I will (generally) write my code in Python. The code will be stored in a git repository. Dependencies will be pinned using a requirements.txt file and all work will be carried out in a virtual environment. The code is unittested with py.test. Documentation is written with sphinx and a hook will be used to push it to Read the Docs. I apply continuous integration principles using Travis CI. The code quality is constantly evaluated using landscape.io. At release time bumpversion is used to semantically version the release, place a tag the  in the git repository before pushing the release to GitHub and PyPI.*
 
 
 Employment history
