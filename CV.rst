@@ -42,7 +42,7 @@ LinkedIn_: mjstantoncook
 Summary
 -------
 
-I develop solutions to challenging problems with a focus on research science. My software solutions are typically written in Python_, a programming language that I have been *using for over 10 years*. I consider myself as a *(Bio)DevOp*. I have given talks on applying DevOps principles in the research science realm (slides_). I am also trying to apply the `Lean Startup Methodology`_ to my work (validate, build, test and iterate).
+I develop solutions to challenging problems with a focus on research science. My software solutions are typically written in Python_, a programming language that I have been using for over 10 years. I consider myself a *(Bio)DevOp*. I have given talks on applying DevOps principles in the research science realm (slides_). I also apply the `Lean Startup Methodology`_ to my work (validate, build, test and iterate).
 
 I am a core developer of computational pipelines and data management procedures for next generation sequencing data in the context of high performance computing (HPC) environments. Currently I work on a HPC system with 384 compute nodes providing over 3000 CPU cores. I have recently initiated a project to make our data analysis pipelines more elastic. That is, allow them to easily and seamlessly use available HPC, cloud and internal compute resources. 
 
@@ -50,11 +50,11 @@ I am a system administrator of Linux servers and OS X desktops. I automate my wo
 
 I am a `Software Carpentry Instructor`_. As an instructor I am trained to teach the Unix Shell, Python, Git and SQL to researchers.  
 
-I have a significant number of open source repositories on GitHub_. I am a code contributor to the Xplor-NIH_ Nuclear Magnetic Resonance (NMR) molecular structure determination package. This package is one of most widely used protein structure determination packages ( > 1500 citations).
+I have a significant number of open source repositories on GitHub_. I am a code contributor to the Xplor-NIH_ Nuclear Magnetic Resonance (NMR) molecular structure determination package. This package is one of the most widely used protein structure determination packages ( > 1500 citations).
 
 My software solutions and my data analysis pipelines have resulted in my authorship on a number of peer reviewed International journal articles. The most up-to-date list can be found on my `Google Scholar profile`_.
 
-I have supervised and lead a number of students and staff on a variety of projects. My passion for teaching and training was rewarded in early 2015 when I was offered a joint appointment as a Teaching Fellow within the School of Chemistry and Molecular Bioscience (joint appointment with my Software Engineering/Systems Administration role).
+I have supervised and led a number of students and staff on a variety of projects. My passion for teaching and training was rewarded in early 2015 when I was offered a joint appointment as a Teaching Fellow within the School of Chemistry and Molecular Bioscience (joint appointment with my Software Engineering/Systems Administration role).
 
 .. _Python: https://www.python.org/
 .. _`Lean Startup Methodology`: http://theleanstartup.com/principles
@@ -88,7 +88,7 @@ Significant experience in High Performance Computing (HPC) environments. PBS Pro
 
 Experience using academic and commercial cloud providers. I have used Nectar, DigitalOcean, Azure and AWS.
 
-Proficient in mathematical optimisation inclusive of the Python libraries NumPy, SciPy, MatplotLib, Biopython, IPython notebook, and pandas. Experience varies.
+Proficient in mathematical optimisation inclusive of the Python libraries NumPy, SciPy, MatplotLib, Biopython, IPython notebook, and pandas.
 
 Experience in the use of Fabric and Ansible for systems orchestration and management.
 
@@ -98,21 +98,21 @@ Understanding of web application design and frameworks (Flask, bootstrap and pel
 
 Familiar with databases NoSQL/SQL and ORM (RethinkDB, MongoDB/PostgreSQL, MySQL and peewee and Pony ORM).
 
-Currently learning Apache Spark. Spark is fast and general engine for large-scale data processing.
+Currently learning Apache Spark. Spark is a fast and general engine for large-scale data processing.
 
-*I will (generally) write my code in Python. The code will be stored in a git repository. Dependencies will be pinned using a requirements.txt file and all work will be carried out in a virtual environment. The code is unittested with py.test. Documentation is written with sphinx and a hook will be used to push it to Read the Docs. I apply continuous integration principles using Travis CI. The code quality is constantly evaluated using landscape.io. At release time bumpversion is used to semantically version the release, place a tag the  in the git repository before pushing the release to GitHub and PyPI.*
+*I will (generally) write my code in Python. The code will be stored in a git repository. Dependencies will be pinned using a requirements.txt file and all work will be carried out in a virtual environment. The code is unittested with py.test. Documentation is written with sphinx and a hook will be used to push it to Read the Docs. I apply continuous integration principles using Travis CI. The code quality is constantly evaluated using landscape.io. At release time bumpversion is used to semantically version the release, place a tag in the git repository before pushing the release to GitHub and PyPI.*
 
 
 Employment history
 ------------------
 
-**2015 - Current:** School of Chemistry and Molecular Bioscience `Teaching Fellow`_. I Prepare and deliver lectures and lead both undergraduate and postgraduate students in The University of Queensland bioinformatics courses SCIE2100_ and BIOL3014_.
+**2015 - Current:** School of Chemistry and Molecular Bioscience `Teaching Fellow`_. I prepare and deliver lectures and lead both undergraduate and postgraduate students in The University of Queensland Bioinformatics courses SCIE2100_ and BIOL3014_.
 
 **2011 - Current:** Software Engineer/Systems Administrator in `The Beatson Microbial Genomics Laboratory`_. 
 
 **2007 - 2011:** PhD scholar on an Australian Postgraduate Association Scholarship. Stipend while performing full time study towards PhD.
 
-**2006 - 2011:** Casual bulk tutor in undergraduate subjects at the University of Queensland. Lead and instructed students in the courses BIOL1014, COSC2000 and BIOL3004.
+**2006 - 2011:** Casual bulk tutor in undergraduate subjects at the University of Queensland. Led and instructed students in the courses BIOL1014, COSC2000 and BIOL3004.
 
 **2002 - 2006:** Laboratory Assistant in the preanalytical department of `Sullivan and Nicolaides Pathology`_.
 
@@ -189,7 +189,7 @@ Recent Talks
 
 **Doing bioinformatics better**. Australian Bioinformatics Conference, Melbourne Australia, 2014 (slides_). DevOps principles for bioinformaticians. SemVer, Dependency pinning, virtual environments, software revisioning, virtualisation and containerisation.
 
-**An Introduction to RethinkDB and how we use it**. Brisbane NoSQL Users Group, Brisbane Australia, 2014. An hour long presentation introducing all aspects of RethinkDB, followed by live demoing of our tool BanzaiVis. Spun up a set of RethinkDB instances for attendees to get hands on usage experience. RethinkDB team even sent some T-shirts, stickers and other swag for the event_. 
+**An Introduction to RethinkDB and how we use it**. Brisbane NoSQL Users Group, Brisbane Australia, 2014. An hour long presentation introducing all aspects of RethinkDB, followed by live demoing of our tool BanzaiVis. Spun up a set of RethinkDB instances for attendees to get hands on usage experience. 
 
 .. _slides: http://www.slideshare.net/mscook/australian-bioinformatics-conference-abic-2014-talk-doing-bioinformatics-better
 .. _event: https://twitter.com/mscook/status/509150503167475713
@@ -202,9 +202,9 @@ I designed, organised and facilitated the inaugural Australian MIcrobial GenOmic
 
 I am a certified `Software Carpentry Instructor`_. Through Software Carpentry I teach researchers basic software skills (BASH shell, python programming, software revision control and simple SQL databases). I am the lead instructor for a two day bootcamp `in July`.
 
-I am a co-organiser the `2015 HealthHack`_ in Brisbane. HealthHack is a data hack for medical researchers. The goal (in my opinion) is to bring to focus the importance of software engineers in medical research fields.
+I am a co-organiser of the `2015 HealthHack`_ in Brisbane. HealthHack is a data hack for medical researchers. The goal is to bring to focus the importance of software engineers in medical research fields.
 
-I am a member of `River City Labs`_. `River City Labs`_ is a coworking community where members come together to promote and develop early stage and start up businesses and entrepreneurial activity.
+I am a member of `River City Labs`_. `River City Labs`_ is a coworking community where members come together to promote and develop early stage and start up businesses and engage in entrepreneurial activity.
 
 .. _AMIGOS: http://theamigos.space
 .. _`Software Carpentry Instructor`: http://software-carpentry.org/pages/team.html
