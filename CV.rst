@@ -1,6 +1,75 @@
 Curriculum vitae of Mitchell Jon Stanton-Cook
 ==============================================
 
+About
+-----
+
+DOB: 07/07/1983
+Location: Brisbane, Australia.
+
+
+
+Summary
+-------
+
+
+Current Projects
+----------------
+
+
+Employment history
+------------------
+
+2015 - current: School of Chemistry and Molecular Biosciences `Teaching Fellow`_.
+
+2011 - current: Software Engineer/Systems Administrator in `The Beatson Microbial Genomics Laboratory`_. 
+
+2007 - 2011: PhD scholar on an Australian Postgraduate Association Scholarship. Stipend while performing full time study towards PhD.
+
+2006 - 2011: Casual bulk tutor in undergraduate subjects at the University of Queensland. Lead and instructed students in the courses BIOL1014, COSC2000 and BIOL3004.
+
+2002 - 2006: Laboratory Assistant in the preanalytical department of `Sullivan and Nicolaides Pathology`_.
+
+.. _`Teaching Fellow`: http://www.uq.edu.au/teaching-learning/internal-uq-funding-opportunities     
+.. _`The Beatson Microbial Genomics Laboratory`: http://beatsonlab.com
+.. _`Sullivan and Nicolaides Pathology`: http://www.snp.com.au
+
+
+Education
+---------
+
+`Australian National University`. PhD (incomplete). 2007-. `Computational structural biology`_.
+
+`The University of Queensland`. Honours Degree. 2006-2007. `First Class Honours`_ (>85%) in the field of Biochemistry.
+
+`The University of Queensland`. Undergraduate Degree. 2002-2006. Bachelor of Science majoring in Bioinformatics_. GPA = 6 (of 7).
+
+.. _`Computational structural biology`: http://comp-bio.anu.edu.au
+.. _`First Class Honours`: http://www.scmb.uq.edu.au/honours
+.. _Bioinformatics: https://www.uq.edu.au/study/plan.html?acad_plan=BIINFW2030
+.. _`Australian National University`: http://www.australianuniversities.com.au/rankings/
+.. _`The University of Queensland`: http://www.australianuniversities.com.au/rankings/
+
+
+Lead/Supervision
+----------------
+
+`Tom Robinson`_ (research assistant): **Elastic-Banzai**. Re-engineering our genomics analysis pipeline to make use of all available compute resources. Stack: Apache Mesos, Flask, Celery Queue, Apache libcloud and docker.
+
+`Jun Ling`_ (project student and research assistant): **SeqFindr-web**. Dynamic SeqFindr visualisation in a web-app. Stack: Flask, Celery Queue, Bootstrap and D3.js.
+
+`Marisa Emerson`_ (project student and research assistant): **BanzaiDB** and **BanzaiVis**. Storage and visualisation of bacterial genomics data. Stack: RethinkDB, Flask, Bootstrap  D3.js.
+
+`Hamza Khan`_ (International summer research scholar): **Plasmid-barcodes** and **SeqFindr-web**. Visualisation of plasmid material. Stack: Matplotlib and D3.js.
+
+`Hitesh Arora`_ (International summer research scholar): Plasmid-hunter. Classification of plasmid material. Stack: Python scripts and machine learning frameworks.
+
+.. _`Tom Robinson`: http://github.com/tomjrob
+.. _`Jun Ling`: http://github.com/jling90
+.. _`Marisa Emerson`: http://github.com/m-emerson
+.. _`Hamza Khan`: http:///github.com/hamzakhanvit
+.. _`Hitesh Arora`: https://github.com/hitesh11
+
 
 Hackathons etc.
 ---------------
@@ -9,12 +78,13 @@ Hackathons etc.
 
 Unearthed_ (2015): **Team RockMe**. Developed an OpenCV based particle size classifier. Produced a working tool that was live demoed to the judges.
 
-`TANDA hackathon`_ (2015): **Team Dark Magic**. Performed exploratory data analysis of TANDA's time and attendance data using python. Developed an interactive geolocated salary visualization tool. Backend was RethinkDB. Frontend was custom D3.js visualization.
+`TANDA hackathon`_ (2015): **Team Dark Magic**. Performed exploratory data analysis of TANDA's time and attendance data using python. Developed an interactive geolocated salary visualisation tool. Backend was RethinkDB. Frontend was custom D3.js visualisation.
+
+`Docker's 2nd Birthday Party`_ (2015): **Redhat Brisbane site**. `Wrote code. Saved whales`.
 
 `Startup Health Weekend`_ (2015): **Team Triosk**. Designed, validated and delivered a Kiosk for Emergency Department triage. The Triosk design rationale document is available_. Won_ Best Pitch and Best Collaboronaut.
 
 `Startup Weekend`_: (2015): **Team RentUrWay**. Designed, validated and mocked a privacy aware tenant-landlord communication tool. Simple web development and D3.js charts (for mocks-ups).
-
 
 .. _Unearthed: http://unearthed.solutions
 .. _`TANDA hackathon`: https://www.tanda.co/tanda-open-data-hackathon-this-weekend-17th-18th-april/
@@ -23,8 +93,19 @@ Unearthed_ (2015): **Team RockMe**. Developed an OpenCV based particle size clas
 .. _`Mozilla Science Lab Global Sprint 2015`: https://www.mozillascience.org/global-sprint-2015
 .. _available: http://triosk.co/triosk_overview.pdf
 .. _Won: http://www.ilabaccelerator.com/2015/04/its-a-wrap-australias-first-startup-weekend-for-health/
+.. _`Wrote code. Saved whales`: http://docker.party
 
 
+Recent Talks
+------------
+
+**Doing bioinformatics better**. Australian Bioinformatics Conference, Melbourne Australia, 2014 (slides_). DevOps principles for bioinformaticians. SemVer, Dependency pinning, virtual environments, software revisioning, virtualisation and containerisation.
+
+**An Introduction to RethinkDB and how we use it**. Brisbane NoSQL Users Group, Brisbane Australia, 2014. An hour long presentation introducing all aspects of RethinkDB, followed by live demoing of our tool BanzaiVis. Spun up a set of RethinkDB instances for attendees to get hands on usage experience. RethinkDB team even sent some T-shirts, stickers and other swag for `the event`_. 
+
+.. _slides: http://www.slideshare.net/mscook/australian-bioinformatics-conference-abic-2014-talk-doing-bioinformatics-better
+.. _the event`: https://twitter.com/mscook/status/509150503167475713
+ 
 
 Miscellaneous
 -------------
@@ -37,7 +118,6 @@ I am a co-organiser the `2015 HealthHack`_ in Brisbane. HealthHack is a data hac
 
 I am a member of `River City Labs`_. `River City Labs`_ is a coworking community where members come together to promote and develop early stage and start up businesses and entrepreneurial activity.
 
-
 .. _AMIGOS: http://theamigos.space
 .. _`Software Carpentry Instructor`: http://software-carpentry.org/pages/team.html
 .. _`in July`: http://bio-swc-bne.github.io/2015-07-02-UQ/
@@ -45,11 +125,9 @@ I am a member of `River City Labs`_. `River City Labs`_ is a coworking community
 .. _`River City Labs`: http://www.rivercitylabs.net
 
 
-
 Publications
 ------------
 For the most up-to-date list (and metrics) see my `Google Scholar profile`_.
-
 
 **Molecular characterization of a multidrug resistance IncF plasmid from the globally disseminated Escherichia coli ST131 clone**.
 Phan MD, Forde BM, Peters KM, Sarkar S, Hancock S, **Stanton-Cook M**, Ben Zakour NL, Upton M, Beatson SA, Schembri MA.
@@ -106,8 +184,7 @@ Schmitz C, **Stanton-Cook MJ**, Su XC, Otting G, Huber T.
 J Biomol NMR
 doi: `10.1007/s10858-008-9249-z`_
 
-
-.. _`Google Scholar profile`: https://scholar.google.com.au/citations?user=MGafrX4AAAAJ&hl=en
+.. _`Google Scholar profile`: https://scholar.google.com.au/citations?user=MGafrX4AAAAJhl=en
 .. _`10.1371/journal.pone.0122369`: http://doi.org/10.1371/journal.pone.0122369
 .. _`10.1128/genomeA.00138-15`: http://doi.org/10.1128/genomeA.00138-15
 .. _`10.1093/jac/dkv066`: http://doi.org/10.1093/jac/dkv066
@@ -121,8 +198,8 @@ doi: `10.1007/s10858-008-9249-z`_
 .. _`10.1007/s10858-008-9249-z`: http://doi.org/10.1007/s10858-008-9249-z
 
 
-
 References
 ----------
 
 Provided on request.
+
