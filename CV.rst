@@ -16,7 +16,7 @@ I am a data analyst focused on large biological datasets. I am employed as a Sof
 
 DOB: 07/07/1983
 
-Location: Brisbane_, Australia.
+Location: Brisbane_, Australia
 
 Phone: +61 414800280
 
@@ -24,7 +24,7 @@ Email: m.stantoncook@gmail.com
 
 GitHub_: mscook
 
-My work_ profile. My personal site_.
+My work_ profile and my personal site_
 
 Twitter: @Bio_mscook (professional_), @mscook (personal_)
 
