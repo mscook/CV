@@ -12,7 +12,7 @@ This is my Curriculum Vitae. It is being rendered by GitHub. The plain text vers
 About
 -----
 
-I am a data analyst focused on large biological datasets. I am employed as a Software Engineer and Linux Systems Administrator. I am also a Teaching Fellow (lecturer).
+**I am a data analyst focused on large biological datasets. I am employed as a Software Engineer and Linux Systems Administrator. I am also a Teaching Fellow (lecturer).**
 
 DOB: 07/07/1983
 
@@ -52,9 +52,9 @@ I am a `Software Carpentry Instructor`_. As an instructor I am trained to teach 
 
 I have a significant number of open source repositories on GitHub_. I am a code contributor to the Xplor-NIH_ Nuclear Magnetic Resonance (NMR) molecular structure determination package. This package is one of most widely used protein structure determination packages ( > 1500 citations).
 
-I, my software solutions and my data analysis pipelines have resulted in a publication of a number of peer reviewed International journal articles. The most up-to-date list can be found on my `Google Scholar profile`_.
+My software solutions and my data analysis pipelines have resulted in my authorship on a number of peer reviewed International journal articles. The most up-to-date list can be found on my `Google Scholar profile`_.
 
-I have supervised and lead a number of students and staff on a variety of project. My passion for teaching/training  was rewarded in early 2015 when I was offered a joint appointment as a Teaching Fellow within the School of Chemistry and Molecular Bioscience.
+I have supervised and lead a number of students and staff on a variety of projects. My passion for teaching and training was rewarded in early 2015 when I was offered a joint appointment as a Teaching Fellow within the School of Chemistry and Molecular Bioscience (joint appointment with my Software Engineering/Systems Administration role).
 
 .. _Python: https://www.python.org/
 .. _`Lean Startup Methodology`: http://theleanstartup.com/principles
@@ -67,8 +67,8 @@ Current Projects
 ----------------
 
 An exhaustive list is at GitHub_. However, the most active/interesting are:
-    * Banzai_ (public placeholder repository), a next generation sequencing pipeline tool to go from many raw sequencing reads to draft genomes in a rapid and efficient manner. Banzai removes the the HPC complexity from users. Employs the Python fabric library. Greater than 15K lines of code. 
-    * SeqFindr_, easily create informative genomic feature plots. It's a tool to detect the presence or absence of genomic features given a database describing these features and a set of draft and/or complete genomes. There have been SeqFindr spinoffs (SeqFindr-Web, plasmid-barcodes).
+    * Banzai_ (public placeholder repository), a next generation sequencing pipeline tool to go from many raw sequencing reads to draft genomes in a rapid and efficient manner. Banzai removes the the HPC complexity from users. Employs the *Python fabric library*. Greater than 15K lines of code. 
+    * SeqFindr_, easily create informative genomic feature plots. It's a tool to detect the presence or absence of genomic features given a database describing these features and a set of draft and/or complete genomes. There have been SeqFindr spin-offs (SeqFindr-Web, plasmid-barcodes). Employs the *Python NumPy, SciPy, matplotlib and Biopython libraries*.
     * pipelin.es_ (with A/Prof Torsten Seemann), Pipelin.es is a next generation sequencing data analysis pipeline evaluation tool using docker_ images.
     * BanzaiDB_, a tool for pairing Microbial Genomics Next Generation Sequencing analysis with a NoSQL database (RethinkDB).
 
@@ -82,19 +82,39 @@ An exhaustive list is at GitHub_. However, the most active/interesting are:
 My Tech Stack
 -------------
 
+Linux Systems Administration. Variety of distributions. Greater than 10 years experience. 
+
+Significant experience in High Performance Computing (HPC) environments. PBS Pro, PBS, Torque, SLURM, modules and HSM of data. Greater than 7 years experience.
+
+Experience using academic and commercial cloud providers. I have used Nectar, DigitalOcean, Azure and AWS.
+
+Proficient in mathematical optimisation inclusive of the Python libraries NumPy, SciPy, MatplotLib, Biopython, IPython notebook, and pandas. Experience varies.
+
+Experience in the use of Fabric and Ansible for systems orchestration and management.
+
+Use of Vagrant (with packer) and Docker for testing, deployment and packaging.
+
+Understanding of web application design and frameworks (Flask, bootstrap and pelican).
+
+Familiar with databases NoSQL/SQL and ORM (RethinkDB, MongoDB/PostgreSQL, MySQL and peewee and Pony ORM).
+
+Currently learning Apache Spark. Spark is fast and general engine for large-scale data processing.
+
+I will (generally) write my code in Python. The code will be stored in a git repository. Dependencies will be pinned using a requirements.txt file and all work will be carried out in a virtual environment. The code is unittested with py.test. Documentation is written with sphinx and a hook will be used to push it to Read the Docs. I apply continuous integration principles using Travis CI. The code quality is constantly evaluated using landscape.io. At release time bumpversion is used to semantically version the release, place a tag the  in the git repository before pushing the release to GitHub and PyPI.
+
 
 Employment history
 ------------------
 
-2015 - Current: School of Chemistry and Molecular Bioscience `Teaching Fellow`_. I Prepare and deliver lectures and lead both undergraduate and postgraduate students in The University of Queensland bioinformatics courses SCIE2100_ and BIOL3014_.
+**2015 - Current:** School of Chemistry and Molecular Bioscience `Teaching Fellow`_. I Prepare and deliver lectures and lead both undergraduate and postgraduate students in The University of Queensland bioinformatics courses SCIE2100_ and BIOL3014_.
 
-2011 - Current: Software Engineer/Systems Administrator in `The Beatson Microbial Genomics Laboratory`_. 
+**2011 - Current:** Software Engineer/Systems Administrator in `The Beatson Microbial Genomics Laboratory`_. 
 
-2007 - 2011: PhD scholar on an Australian Postgraduate Association Scholarship. Stipend while performing full time study towards PhD.
+**2007 - 2011:** PhD scholar on an Australian Postgraduate Association Scholarship. Stipend while performing full time study towards PhD.
 
-2006 - 2011: Casual bulk tutor in undergraduate subjects at the University of Queensland. Lead and instructed students in the courses BIOL1014, COSC2000 and BIOL3004.
+**2006 - 2011:** Casual bulk tutor in undergraduate subjects at the University of Queensland. Lead and instructed students in the courses BIOL1014, COSC2000 and BIOL3004.
 
-2002 - 2006: Laboratory Assistant in the preanalytical department of `Sullivan and Nicolaides Pathology`_.
+**2002 - 2006:** Laboratory Assistant in the preanalytical department of `Sullivan and Nicolaides Pathology`_.
 
 .. _SCIE2100: http://www.courses.uq.edu.au/student_section_loader.php?section=1&profileId=71951
 .. _BIOL3014: https://www.uq.edu.au/study/course.html?course_code=BIOL3014&offer=53544c554332494e
@@ -106,11 +126,11 @@ Employment history
 Education
 ---------
 
-`Australian National University`. PhD (incomplete). 2007-. `Computational structural biology`_.
+`Australian National University`. **PhD (incomplete). 2007-**. `Computational structural biology`_.
 
-`The University of Queensland`. Honours Degree. 2006-2007. `First Class Honours`_ (>85%) in the field of Biochemistry.
+`The University of Queensland`. **Honours Degree. 2006-2007**. `First Class Honours`_ (>85%) in the field of Biochemistry.
 
-`The University of Queensland`. Undergraduate Degree. 2002-2006. Bachelor of Science majoring in Bioinformatics_. GPA = 6 (of 7).
+`The University of Queensland`. **Undergraduate Degree. 2002-2006**. Bachelor of Science majoring in Bioinformatics_. GPA = 6 (of 7).
 
 .. _`Computational structural biology`: http://comp-bio.anu.edu.au
 .. _`First Class Honours`: http://www.scmb.uq.edu.au/honours
@@ -122,7 +142,7 @@ Education
 Lead/Supervision
 ----------------
 
-`Tom Robinson`_ (research assistant): **Elastic-Banzai**. Re-engineering our genomics analysis pipeline to make use of all available compute resources. Stack: Apache Mesos, Flask, Celery Queue, Apache libcloud and docker.
+`Tom Robinson`_ (research assistant): **Elastic-Banzai**. Re-engineering our genomics analysis pipeline to make use of all available compute resources. Stack: Apache Mesos, Flask, Celery Queue, Apache Libcloud and docker.
 
 `Jun Ling`_ (project student and research assistant): **SeqFindr-web**. Dynamic SeqFindr visualisation in a web-app. Stack: Flask, Celery Queue, Bootstrap and D3.js.
 
@@ -130,7 +150,7 @@ Lead/Supervision
 
 `Hamza Khan`_ (International summer research scholar): **Plasmid-barcodes** and **SeqFindr-web**. Visualisation of plasmid material. Stack: Matplotlib and D3.js.
 
-`Hitesh Arora`_ (International summer research scholar): Plasmid-hunter. Classification of plasmid material. Stack: Python scripts and machine learning frameworks.
+`Hitesh Arora`_ (International summer research scholar): **Plasmid-hunter**. Classification of plasmid material. Stack: Python scripts and machine learning frameworks.
 
 .. _`Tom Robinson`: http://github.com/tomjrob
 .. _`Jun Ling`: http://github.com/jling90
@@ -169,7 +189,7 @@ Recent Talks
 
 **Doing bioinformatics better**. Australian Bioinformatics Conference, Melbourne Australia, 2014 (slides_). DevOps principles for bioinformaticians. SemVer, Dependency pinning, virtual environments, software revisioning, virtualisation and containerisation.
 
-**An Introduction to RethinkDB and how we use it**. Brisbane NoSQL Users Group, Brisbane Australia, 2014. An hour long presentation introducing all aspects of RethinkDB, followed by live demoing of our tool BanzaiVis. Spun up a set of RethinkDB instances for attendees to get hands on usage experience. RethinkDB team even sent some T-shirts, stickers and other swag for event_. 
+**An Introduction to RethinkDB and how we use it**. Brisbane NoSQL Users Group, Brisbane Australia, 2014. An hour long presentation introducing all aspects of RethinkDB, followed by live demoing of our tool BanzaiVis. Spun up a set of RethinkDB instances for attendees to get hands on usage experience. RethinkDB team even sent some T-shirts, stickers and other swag for the event_. 
 
 .. _slides: http://www.slideshare.net/mscook/australian-bioinformatics-conference-abic-2014-talk-doing-bioinformatics-better
 .. _event: https://twitter.com/mscook/status/509150503167475713
