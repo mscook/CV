@@ -67,8 +67,8 @@ Current Projects
 ----------------
 
 An exhaustive list is at GitHub_. However, the most active/interesting are:
-    * Banzai_ (public placeholder repository): a next generation sequencing pipeline tool to go from many raw sequencing reads to draft genomes in a rapid and efficient manner. Banzai removes the complexity of the high performance computing environment from users. Employs the *Python fabric library*. Greater than 15K lines of code. 
-    * SeqFindr_: easily create informative genomic feature plots. It's a tool to detect the presence or absence of genomic features given a database describing these features and a set of draft and/or complete genomes. There have been SeqFindr spin-offs (SeqFindr-Web, plasmid-barcodes). Employs the *Python NumPy, SciPy, matplotlib and Biopython libraries*.
+    * Banzai_ (public placeholder repository): a next generation sequencing pipeline tool to go from many raw sequencing reads to draft genomes in a rapid and efficient manner. Banzai removes the complexity of the high performance computing environment from users. Employs the Python fabric library. Greater than 15K lines of code. 
+    * SeqFindr_: easily create informative genomic feature plots. It's a tool to detect the presence or absence of genomic features given a database describing these features and a set of draft and/or complete genomes. There have been SeqFindr spin-offs (SeqFindr-Web, plasmid-barcodes). Employs the Python NumPy, SciPy, matplotlib and Biopython libraries.
     * pipelin.es_ (with A/Prof Torsten Seemann): Pipelin.es is a next generation sequencing data analysis pipeline evaluation tool using docker_ images.
     * BanzaiDB_: a tool for pairing Microbial Genomics Next Generation Sequencing analysis with a NoSQL database (RethinkDB).
 
