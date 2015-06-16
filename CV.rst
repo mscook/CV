@@ -1,12 +1,42 @@
-Curriculum vitae of Mitchell Jon Stanton-Cook
-==============================================
+CV of Mitchell Jon Stanton-Cook
+===============================
+
+This is my Curriculum Vitae. It is being rendered by GitHub. The plain text version is located here_. If I wanted to convert it to another format I would use Pandoc_. If I wanted to make it prettier I would use pelican_ or sphinx_. 
+
+.. _here: https://raw.githubusercontent.com/mscook/CV/master/CV.rst
+.. _Pandoc: http://pandoc.org
+.. _pelican: http://docs.getpelican.com/en/3.6.0/
+.. _sphinx: http://sphinx-doc.org
+
 
 About
 -----
 
-DOB: 07/07/1983
-Location: Brisbane, Australia.
+I am a data analyst focused on large biological datasets. I am employed as a Software Engineer & Linux System Administrator. I am also a Teaching Fellow.
 
+DOB: 07/07/1983
+
+Location: Brisbane_, Australia.
+
+Phone: +61 414800280
+
+Email: m.stantoncook@gmail.com
+
+Github_: mscook
+
+My work_ profile. My personal site_.
+
+Twitter: @Bio_mscook (professional_), @mscook (personal_)
+
+LinkedIn_: mjstantoncook
+
+.. _Brisbane: https://www.google.com.au/maps/place/Brisbane+QLD/@-27.4073899,153.0028595,12z/data=!4m2!3m1!1s0x6b91579aac93d233:0x402a35af3deaf40
+.. _Github: https://github.com/mscook
+.. _work: http://beatsonlab.com/pages/MitchSC
+.. _site: http://deriv.es
+.. _professional: https://twitter.com/Bio_mscook
+.. _personal: https://twitter.com/mscook
+.. _LinkedIn: https://twitter.com/Bio_mscook
 
 
 Summary
@@ -20,9 +50,9 @@ Current Projects
 Employment history
 ------------------
 
-2015 - current: School of Chemistry and Molecular Biosciences `Teaching Fellow`_.
+2015 - Current: School of Chemistry and Molecular Biosciences `Teaching Fellow`_. I Prepare and deliver lectures and lead both undergraduate and postgraduate students in The University of Queensland bioinformatics courses SCIE2100_ and BIOL3014_.
 
-2011 - current: Software Engineer/Systems Administrator in `The Beatson Microbial Genomics Laboratory`_. 
+2011 - Current: Software Engineer/Systems Administrator in `The Beatson Microbial Genomics Laboratory`_. 
 
 2007 - 2011: PhD scholar on an Australian Postgraduate Association Scholarship. Stipend while performing full time study towards PhD.
 
@@ -30,6 +60,8 @@ Employment history
 
 2002 - 2006: Laboratory Assistant in the preanalytical department of `Sullivan and Nicolaides Pathology`_.
 
+.. _SCIE2100: http://www.courses.uq.edu.au/student_section_loader.php?section=1&profileId=71951
+.. _BIOL3014: https://www.uq.edu.au/study/course.html?course_code=BIOL3014&offer=53544c554332494e
 .. _`Teaching Fellow`: http://www.uq.edu.au/teaching-learning/internal-uq-funding-opportunities     
 .. _`The Beatson Microbial Genomics Laboratory`: http://beatsonlab.com
 .. _`Sullivan and Nicolaides Pathology`: http://www.snp.com.au
