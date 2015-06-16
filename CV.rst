@@ -80,7 +80,7 @@ Unearthed_ (2015): **Team RockMe**. Developed an OpenCV based particle size clas
 
 `TANDA hackathon`_ (2015): **Team Dark Magic**. Performed exploratory data analysis of TANDA's time and attendance data using python. Developed an interactive geolocated salary visualisation tool. Backend was RethinkDB. Frontend was custom D3.js visualisation.
 
-`Docker's 2nd Birthday Party`_ (2015): **Redhat Brisbane site**. `Wrote code. Saved whales`.
+Docker's 2nd Birthday Party (2015): **Redhat Brisbane site**. `Wrote code`_. Saved whales.
 
 `Startup Health Weekend`_ (2015): **Team Triosk**. Designed, validated and delivered a Kiosk for Emergency Department triage. The Triosk design rationale document is available_. Won_ Best Pitch and Best Collaboronaut.
 
@@ -93,7 +93,7 @@ Unearthed_ (2015): **Team RockMe**. Developed an OpenCV based particle size clas
 .. _`Mozilla Science Lab Global Sprint 2015`: https://www.mozillascience.org/global-sprint-2015
 .. _available: http://triosk.co/triosk_overview.pdf
 .. _Won: http://www.ilabaccelerator.com/2015/04/its-a-wrap-australias-first-startup-weekend-for-health/
-.. _`Wrote code. Saved whales`: http://docker.party
+.. _`Wrote code`: http://docker.party
 
 
 Recent Talks
@@ -101,10 +101,10 @@ Recent Talks
 
 **Doing bioinformatics better**. Australian Bioinformatics Conference, Melbourne Australia, 2014 (slides_). DevOps principles for bioinformaticians. SemVer, Dependency pinning, virtual environments, software revisioning, virtualisation and containerisation.
 
-**An Introduction to RethinkDB and how we use it**. Brisbane NoSQL Users Group, Brisbane Australia, 2014. An hour long presentation introducing all aspects of RethinkDB, followed by live demoing of our tool BanzaiVis. Spun up a set of RethinkDB instances for attendees to get hands on usage experience. RethinkDB team even sent some T-shirts, stickers and other swag for `the event`_. 
+**An Introduction to RethinkDB and how we use it**. Brisbane NoSQL Users Group, Brisbane Australia, 2014. An hour long presentation introducing all aspects of RethinkDB, followed by live demoing of our tool BanzaiVis. Spun up a set of RethinkDB instances for attendees to get hands on usage experience. RethinkDB team even sent some T-shirts, stickers and other swag for event_. 
 
 .. _slides: http://www.slideshare.net/mscook/australian-bioinformatics-conference-abic-2014-talk-doing-bioinformatics-better
-.. _the event`: https://twitter.com/mscook/status/509150503167475713
+.. _event: https://twitter.com/mscook/status/509150503167475713
  
 
 Miscellaneous
