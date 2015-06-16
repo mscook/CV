@@ -1,7 +1,7 @@
 CV of Mitchell Jon Stanton-Cook
 ===============================
 
-This is my Curriculum Vitae. It is being rendered by GitHub. The plain text version is located here_. If I wanted to convert it to another format I would use Pandoc_. If I wanted to make it prettier I would use pelican_ or sphinx_. 
+This is my Curriculum Vitae. It is being rendered by GitHub. The plain text version is located here_. If I wanted to convert it to another format I would use Pandoc_. If I wanted to make it prettier I would use pelican_ or sphinx_.  
 
 .. _here: https://raw.githubusercontent.com/mscook/CV/master/CV.rst
 .. _Pandoc: http://pandoc.org
@@ -12,7 +12,7 @@ This is my Curriculum Vitae. It is being rendered by GitHub. The plain text vers
 About
 -----
 
-I am a data analyst focused on large biological datasets. I am employed as a Software Engineer & Linux System Administrator. I am also a Teaching Fellow.
+I am a data analyst focused on large biological datasets. I am employed as a Software Engineer and Linux Systems Administrator. I am also a Teaching Fellow (lecturer).
 
 DOB: 07/07/1983
 
@@ -22,7 +22,7 @@ Phone: +61 414800280
 
 Email: m.stantoncook@gmail.com
 
-Github_: mscook
+GitHub_: mscook
 
 My work_ profile. My personal site_.
 
@@ -31,26 +31,62 @@ Twitter: @Bio_mscook (professional_), @mscook (personal_)
 LinkedIn_: mjstantoncook
 
 .. _Brisbane: https://www.google.com.au/maps/place/Brisbane+QLD/@-27.4073899,153.0028595,12z/data=!4m2!3m1!1s0x6b91579aac93d233:0x402a35af3deaf40
-.. _Github: https://github.com/mscook
+.. _GitHub: https://github.com/mscook
 .. _work: http://beatsonlab.com/pages/MitchSC
 .. _site: http://deriv.es
 .. _professional: https://twitter.com/Bio_mscook
 .. _personal: https://twitter.com/mscook
-.. _LinkedIn: https://twitter.com/Bio_mscook
+.. _LinkedIn: https://au.linkedin.com/in/mjstantoncook
 
 
 Summary
 -------
 
+I develop solutions to challenging problems with a focus on research science. My software solutions are typically written in Python_, a programming language that I have been *using for over 10 years*. I consider myself as a *(Bio)DevOp*. I have given talks on applying DevOps principles in the research science realm (slides_). I am also trying to apply the `Lean Startup Methodology`_ to my work (validate, build, test and iterate).
+
+I am a core developer of computational pipelines and data management procedures for next generation sequencing data in the context of high performance computing (HPC) environments. Currently I work on a HPC system with 384 compute nodes providing over 3000 CPU cores. I have recently initiated a project to make our data analysis pipelines more elastic. That is, allow them to easily and seamlessly use available HPC, cloud and internal compute resources. 
+
+I am a system administrator of Linux servers and OS X desktops. I automate my work using orchestration/automation tools such as Ansible_ and Fabric_.
+
+I am a `Software Carpentry Instructor`_. As an instructor I am trained to teach the Unix Shell, Python, Git and SQL to researchers.  
+
+I have a significant number of open source repositories on GitHub_. I am a code contributor to the Xplor-NIH_ Nuclear Magnetic Resonance (NMR) molecular structure determination package. This package is one of most widely used protein structure determination packages ( > 1500 citations).
+
+I, my software solutions and my data analysis pipelines have resulted in a publication of a number of peer reviewed International journal articles. The most up-to-date list can be found on my `Google Scholar profile`_.
+
+I have supervised and lead a number of students and staff on a variety of project. My passion for teaching/training  was rewarded in early 2015 when I was offered a joint appointment as a Teaching Fellow within the School of Chemistry and Molecular Bioscience.
+
+.. _Python: https://www.python.org/
+.. _`Lean Startup Methodology`: http://theleanstartup.com/principles
+.. _Ansible: http://www.ansible.com/home
+.. _Fabric: http://www.fabfile.org
+.. _Xplor-NIH: http://nmr.cit.nih.gov/xplor-nih/doc/current/python/ref/pcsTools.html
+
 
 Current Projects
 ----------------
+
+An exhaustive list is at GitHub_. However, the most active/interesting are:
+    * Banzai_ (public placeholder repository), a next generation sequencing pipeline tool to go from many raw sequencing reads to draft genomes in a rapid and efficient manner. Banzai removes the the HPC complexity from users. Employs the Python fabric library. Greater than 15K lines of code. 
+    * SeqFindr_, easily create informative genomic feature plots. It's a tool to detect the presence or absence of genomic features given a database describing these features and a set of draft and/or complete genomes. There have been SeqFindr spinoffs (SeqFindr-Web, plasmid-barcodes).
+    * pipelin.es_ (with A/Prof Torsten Seemann), Pipelin.es is a next generation sequencing data analysis pipeline evaluation tool using docker_ images.
+    * BanzaiDB_, a tool for pairing Microbial Genomics Next Generation Sequencing analysis with a NoSQL database (RethinkDB).
+
+.. _Banzai: https://github.com/mscook/Banzai-MicrobialGenomics-Pipeline
+.. _SeqFindr: https://github.com/mscook/SeqFindR
+.. _pipelin.es: https://github.com/pipelines
+.. _BanzaiDB: https://github.com/mscook/BanzaiDB
+.. _docker: https://www.docker.com/
+
+
+My Tech Stack
+-------------
 
 
 Employment history
 ------------------
 
-2015 - Current: School of Chemistry and Molecular Biosciences `Teaching Fellow`_. I Prepare and deliver lectures and lead both undergraduate and postgraduate students in The University of Queensland bioinformatics courses SCIE2100_ and BIOL3014_.
+2015 - Current: School of Chemistry and Molecular Bioscience `Teaching Fellow`_. I Prepare and deliver lectures and lead both undergraduate and postgraduate students in The University of Queensland bioinformatics courses SCIE2100_ and BIOL3014_.
 
 2011 - Current: Software Engineer/Systems Administrator in `The Beatson Microbial Genomics Laboratory`_. 
 
