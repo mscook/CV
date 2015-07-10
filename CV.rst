@@ -124,7 +124,7 @@ Employment history
 Education
 ---------
 
-`Australian National University`. **Postgraduate studies 2007-2011. `Computational structural biology`_.
+`Australian National University`. **Postgraduate studies 2007-2011**. `Computational structural biology`_.
 
 `The University of Queensland`. **Honours Degree. 2006-2007**. `First Class Honours`_ (>85%) in the field of Biochemistry.
 
