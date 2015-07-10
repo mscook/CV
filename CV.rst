@@ -14,8 +14,6 @@ About
 
 I am a data analyst focused on large biological datasets. I am employed as a Software Engineer and Linux Systems Administrator. I am also a Teaching Fellow (lecturer).
 
-DOB: 07/07/1983
-
 Location: Brisbane_, Australia
 
 Phone: +61 414800280
@@ -126,7 +124,7 @@ Employment history
 Education
 ---------
 
-`Australian National University`. **PhD (incomplete). 2007-**. `Computational structural biology`_.
+`Australian National University`. **Postgraduate studies 2007-2011. `Computational structural biology`_.
 
 `The University of Queensland`. **Honours Degree. 2006-2007**. `First Class Honours`_ (>85%) in the field of Biochemistry.
 
@@ -200,7 +198,7 @@ Miscellaneous
 
 I designed, organised and facilitated the inaugural Australian MIcrobial GenOmics Symposium (AMIGOS_) hackathon. AMIGOS_ was a two day hackathon bringing together 45 Australian based Microbial Genomics researchers.
 
-I am a certified `Software Carpentry Instructor`_. Through Software Carpentry I teach researchers basic software skills (BASH shell, python programming, software revision control and simple SQL databases). I am the lead instructor for a two day bootcamp `in July`.
+I am a certified `Software Carpentry Instructor`_. Through Software Carpentry I teach researchers basic software skills (BASH shell, python programming, software revision control and simple SQL databases). I helped orgsanise and taught at a two day bootcamp `in July`.
 
 I am a co-organiser of the `2015 HealthHack`_ in Brisbane. HealthHack is a data hack for medical researchers. The goal is to bring to focus the importance of software engineers in medical research fields.
 
