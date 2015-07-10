@@ -8,6 +8,8 @@ This is my Curriculum Vitae. It is being rendered by GitHub. The plain text vers
 .. _pelican: http://docs.getpelican.com/en/3.6.0/
 .. _sphinx: http://sphinx-doc.org
 
+.. image:: CC.png
+
 
 About
 -----
