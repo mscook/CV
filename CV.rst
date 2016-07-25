@@ -1,12 +1,12 @@
 CV of Mitchell Jon Stanton-Cook
 ===============================
 
-This is my Curriculum Vitae. It is being rendered by GitHub. The plain text version marked up in reStructuredText_ is located here_. If I wanted to convert it to another format I would use Pandoc_. If I wanted to make it prettier I would use pelican_ or sphinx_.  
+This is my Curriculum Vitae. The live version (https://github.com/mscook/CV) is being rendered by GitHub. The plain text version marked up in reStructuredText_ is located here_. If I wanted to convert it to another format I would use Pandoc_. If I wanted to make it prettier I would use pelican_ or sphinx_.  
 
 .. _reStructuredText: http://docutils.sourceforge.net/rst.html
 .. _here: https://raw.githubusercontent.com/mscook/CV/master/CV.rst
 .. _Pandoc: http://pandoc.org
-.. _pelican: http://docs.getpelican.com/en/3.6.0/
+.. _pelican: http://docs.getpelican.com
 .. _sphinx: http://sphinx-doc.org
 
 .. image:: CC.png
@@ -39,7 +39,7 @@ Twitter_: mscook
 Summary
 -------
 
-I am a DevOp Engineer in a small agile infrastructure team. In a small team I get to solve challenging infrastructure problems end-to-end. My cloud of choice is AWS. I'm a jinja ninja with my configuration management tool of choice being Ansible_. I typically use Python_ when custom DevOps/automation tooling is required. I have been using Python_ for over 10 years.
+I am a DevOps Engineer in a small agile infrastructure team. In a small team I get to solve challenging infrastructure problems end-to-end. My cloud of choice is AWS. I'm a jinja ninja with my configuration management tool of choice being Ansible_. I typically use Python_ when custom DevOps/automation tooling is required. I have been using Python_ for over 10 years.
 
 I'm a polyglot DevOp, currently working across two different accounts (QLD Government and NSW Government) which are on different cloud providers (Rackspace and AWS) and with significantly different operating system, networking and application layers. I manage many environments including being on-call for production environment incidents. 
 
@@ -101,7 +101,7 @@ Used to an on-call 24/7 2 week on, 4 week off roster for production websites. In
 Open source Projects
 --------------------
 
-An exhaustive list is at GitHub_. Open source activity has unfortunately dropped since joining XVT. The most interesting are:
+An exhaustive list is at GitHub_. Open source activity has unfortunately dropped since joining my current employer. The most interesting are:
     * Banzai_ (public placeholder repository): a next generation sequencing pipeline tool to go from many raw sequencing reads to draft genomes in a rapid and efficient manner. Banzai removes the complexity of the high performance computing environment from users. Employs the Python fabric library. Greater than 15K lines of code. 
     * SeqFindr_: easily create informative genomic feature plots. It's a tool to detect the presence or absence of genomic features given a database describing these features and a set of draft and/or complete genomes. There have been SeqFindr spin-offs (SeqFindr-Web, plasmid-barcodes). Employs the Python NumPy, SciPy, matplotlib and Biopython libraries.
     * pipelin.es_ (with A/Prof Torsten Seemann): Pipelin.es is a next generation sequencing data analysis pipeline evaluation tool using docker_ images.
@@ -129,7 +129,7 @@ Employment history
 
 **2002 - 2006:** Laboratory Assistant in the preanalytical department of `Sullivan and Nicolaides Pathology`_.
 
-.. _XVT Solutions: https://xvt.com.au
+.. _XVT Solutions: http://xvt.com.au
 .. _SCIE2100: http://www.courses.uq.edu.au/student_section_loader.php?section=1&profileId=71951
 .. _BIOL3014: https://www.uq.edu.au/study/course.html?course_code=BIOL3014&offer=53544c554332494e
 .. _`Teaching Fellow`: http://www.uq.edu.au/teaching-learning/internal-uq-funding-opportunities     
@@ -248,9 +248,9 @@ For the most up-to-date list (and metrics) see my `Google Scholar profile`_.
 
 Of note/in the media:
 
-*Global dissemination of a multidrug resistant Escherichia coli clone* (cited over 100 times): tracking the the global footprint and transmission of an almost completely antibiotic resistant urinary tract infection causing bacteria.
+**Global dissemination of a multidrug resistant Escherichia coli clone** (cited over 100 times): tracking the the global footprint and transmission of an almost completely antibiotic resistant urinary tract infection causing bacteria.
 
-*Hospital-wide eradication of a nosocomial Legionella pneumophila serogroup 1 outbreak*: tracking a Legionella outbreak in Brisbane's Wesley hospital. 
+**Hospital-wide eradication of a nosocomial Legionella pneumophila serogroup 1 outbreak**: tracking a Legionella outbreak in Brisbane's Wesley hospital. 
 
 
 References
