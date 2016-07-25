@@ -45,7 +45,7 @@ I'm a polyglot DevOp, currently working across two different accounts (QLD Gover
 
 I am the internal security officer. I am in charge of our ISO27001 and PCI-DSS 3.0 compliance projects.
 
-I administrator many Linux servers at once. I automate my work using orchestration/automation tools such as Ansible_ and Fabric_.
+I administer many Linux servers at once. I automate and reproduce my work using orchestration/automation tools such as Ansible_ and Fabric_.
 
 I am a `Software Carpentry Instructor`_ and `Data Carpentry Instructor`_. As an instructor I am trained to teach the Unix Shell, Python, R, Git, SQL and Cloud Computing to researchers with limited technical skills. This has taught me how to translate/explain highly technical topics to non-technical people.  
 
