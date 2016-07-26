@@ -9,13 +9,11 @@ This is my Curriculum Vitae. The live version (https://github.com/mscook/CV) is 
 .. _pelican: http://docs.getpelican.com
 .. _sphinx: http://sphinx-doc.org
 
-.. image:: CC.png
-
 
 About
 -----
 
-I am a DevOps Engineer. I spend most of my time in the AWS clouds. I take ownership of information security. Previously I was a Research Software Engineer and Linux System Administrator.
+I am a DevOps Engineer. I spend most of my days in the AWS clouds. I take ownership of information security. I was previously a Research Software Engineer and Linux System Administrator.
 
 Location: Brisbane_, Australia
 
@@ -41,15 +39,13 @@ Summary
 
 I am a DevOps Engineer in a small agile infrastructure team. In a small team I get to solve challenging infrastructure problems end-to-end. My cloud of choice is AWS. I'm a jinja ninja with my configuration management tool of choice being Ansible_. I typically use Python_ when custom DevOps/automation tooling is required. I have been using Python_ for over 10 years.
 
-I'm a polyglot DevOp, currently working across two different accounts (QLD Government and NSW Government) which are on different cloud providers (Rackspace and AWS) and with significantly different operating system, networking and application layers. I manage many environments including being on-call for production environment incidents. 
+I currently work across two accounts (QLD Government and NSW Government) which are on different cloud providers (Rackspace and AWS) and with significantly different operating system, networking and application layers. I administer many Linux servers at once. I automate and reproduce my work using tools such as Ansible_, Fabric_, Packer_ and Docker_. I manage many environments including being on-call for production incidents. 
 
 I am the internal security officer. I am in charge of our ISO27001 and PCI-DSS 3.0 compliance projects.
 
-I administer many Linux servers at once. I automate and reproduce my work using orchestration/automation tools such as Ansible_ and Fabric_.
-
 I am a `Software Carpentry Instructor`_ and `Data Carpentry Instructor`_. As an instructor I am trained to teach the Unix Shell, Python, R, Git, SQL and Cloud Computing to researchers with limited technical skills. This has taught me how to translate/explain highly technical topics to non-technical people.  
 
-I have a significant number of open source repositories on GitHub_. When time and my employer permits I like to work on these and other open source projects. 
+I have a significant number of open source repositories on GitHub_. I like to work on these and other open source projects when time and my employer permits.
 
 My software, infrastructure and analysis tools has resulted in authorship on a number of peer reviewed International journal articles. The most up-to-date list can be found on my `Google Scholar profile`_.
 
@@ -58,7 +54,9 @@ I have supervised and led a number of undergraduate students and staff on a vari
 
 .. _Ansible: http://www.ansible.com/home
 .. _Python: https://www.python.org/
-.. _Fabric: http://www.fabfile.org 
+.. _Fabric: http://www.fabfile.org
+.. _Docker: https://docker.com 
+.. _Packer: https://packer.io
 .. _`Software Carpentry Instructor`: http://software-carpentry.org/pages/team.html
 .. _`Data Carpentry Instructor`: http://www.datacarpentry.org/
 .. _`Google Scholar profile`: https://scholar.google.com.au/citations?user=MGafrX4AAAAJhl=en
@@ -77,23 +75,23 @@ Proficient in AWS console and API. Experience with VPC, EC2 (ELB and ENA), RDS, 
 
 Experience in the use of Fabric and Ansible for systems orchestration and management. Greater than 3 years experience.
 
-Use of Vagrant, Packer and Docker for testing, deployment and packaging.
+Use of Vagrant, Packer, Terraform and Docker for testing, deployment and packaging.
 
-Deep understanding of ISO27001, PCI-DSS 3.0 controls (at a policy and implementation level) and OWASP Top 10 standards.
+Deep understanding of ISO27001, PCI-DSS 3.0 controls (at a policy and implementation level) and OWASP standards.
 
 Intermediate penetration testing (physical, infrastructure and web application) abilities.
 
 Proficient in mathematical optimisation inclusive of the Python libraries NumPy, SciPy, MatplotLib, Biopython, IPython notebook, and pandas.
 
-Understanding of python web application design and frameworks (Flask, pylons/pyramid bootstrap and pelican).
+Understanding of python web application design and frameworks (Flask, pylons/pyramid, bootstrap and pelican).
 
 Familiar with databases NoSQL/SQL and ORM (RethinkDB, MongoDB/PostgreSQL, MySQL and peewee and Pony ORM).
 
-Proficient with Atlassian suite (JIRA, Confluence, Bitbucket, Bamboo, HipChat, ...)
+Proficient with Atlassian suite (JIRA, Confluence, Bitbucket, Bamboo, HipChat)
 
 Currently learning Apache Spark. Spark is a fast and general engine for large-scale data processing.
 
-Used to an on-call 24/7 2 week on, 4 week off roster for production websites. Incident management handled by PagerDuty with triggers from cloud native and 3rd party monitoring applications (CloudWatch alarms, NewRelic, Runscope, ...).
+Used to an on-call 24/7, 2 week on, 4 week off roster for production web applications. Incident management handled by PagerDuty with triggers from cloud native and 3rd party monitoring applications (CloudWatch alarms, NewRelic, Runscope, ...).
 
 *I will (generally) write my code in Python. The code will be stored in a git repository. Dependencies will be pinned using a requirements.txt file and all work will be carried out in a virtual environment. The code is unittested with py.test. Documentation is written with sphinx and a hook will be used to push it to Read the Docs. I apply continuous integration principles using Travis CI. The code quality is constantly evaluated using landscape.io. At release time bumpversion is used to semantically version the release, place a tag in the git repository before pushing the release to GitHub and PyPI.*
 
@@ -101,17 +99,23 @@ Used to an on-call 24/7 2 week on, 4 week off roster for production websites. In
 Open source Projects
 --------------------
 
-An exhaustive list is at GitHub_. Open source activity has unfortunately dropped since joining my current employer. The most interesting are:
-    * Banzai_ (public placeholder repository): a next generation sequencing pipeline tool to go from many raw sequencing reads to draft genomes in a rapid and efficient manner. Banzai removes the complexity of the high performance computing environment from users. Employs the Python fabric library. Greater than 15K lines of code. 
-    * SeqFindr_: easily create informative genomic feature plots. It's a tool to detect the presence or absence of genomic features given a database describing these features and a set of draft and/or complete genomes. There have been SeqFindr spin-offs (SeqFindr-Web, plasmid-barcodes). Employs the Python NumPy, SciPy, matplotlib and Biopython libraries.
-    * pipelin.es_ (with A/Prof Torsten Seemann): Pipelin.es is a next generation sequencing data analysis pipeline evaluation tool using docker_ images.
-    * BanzaiDB_: a tool for pairing Microbial Genomics Next Generation Sequencing analysis with a NoSQL database (RethinkDB).
+An exhaustive list is at GitHub_. Open source activity has unfortunately dropped since joining my current employer. 
+
+The most interesting are:
+
+**Banzai_ (public placeholder repository):** a next generation sequencing pipeline tool to go from many raw sequencing reads to draft genomes in a rapid and efficient manner. Banzai removes the complexity of the high performance computing environment from users. Employs the Python fabric library. Greater than 15K lines of code. 
+
+**SeqFindr_:** easily create informative genomic feature plots. It's a tool to detect the presence or absence of genomic features given a database describing these features and a set of draft and/or complete genomes. There have been SeqFindr spin-offs (SeqFindr-Web, plasmid-barcodes). Employs the Python NumPy, SciPy, matplotlib and Biopython libraries.
+
+**pipelin.es_ (with A/Prof Torsten Seemann):** Pipelin.es is a next generation sequencing data analysis pipeline evaluation tool using Docker_ images.
+
+**BanzaiDB_:** a tool for pairing Microbial Genomics Next Generation Sequencing analysis with a NoSQL database (RethinkDB).
+
 
 .. _Banzai: https://github.com/mscook/Banzai-MicrobialGenomics-Pipeline
 .. _SeqFindr: https://github.com/mscook/SeqFindR
 .. _pipelin.es: https://github.com/pipelines
 .. _BanzaiDB: https://github.com/mscook/BanzaiDB
-.. _docker: https://www.docker.com/
 
 
 Employment history
@@ -123,7 +127,7 @@ Employment history
 
 **Jun 2011 - Sep 2015:** Software Engineer/Systems Administrator in `The Beatson Microbial Genomics Laboratory`_. 
 
-**2007 - 2011:** Postgraduate scholar on an Australian Postgraduate Association Scholarship. Stipend while performing full time study towards PhD.
+**2007 - 2011:** Postgraduate scholar on an Australian Postgraduate Association Scholarship. Stipend while performing full time study.
 
 **2006 - 2011:** Casual bulk tutor in undergraduate subjects at the University of Queensland. Led and instructed students in the courses BIOL1014, COSC2000 and BIOL3004.
 
@@ -228,6 +232,8 @@ I am a certified `Data Carpentry Instructor`_. Data Carpentry develops and teach
 
 I co-organised the `2015 HealthHack`_ in Brisbane. I was also the one of two National facilitators. HealthHack is a data hack for medical researchers. The goal is to bring to focus the importance of software engineers in medical research fields. I have returned as an organiser for the 2016 event.
 
+I am an `Open Knowledge Australia`_ Ambassador. Open Knowledge Australia is like an upside-down umbrella, supporting and empowering the myriad of communities across Australia who believe in open knowledge.
+
 I am a member of `River City Labs`_. `River City Labs`_ is a co-working community where members come together to promote and develop early stage and start up businesses and engage in entrepreneurial activity.
 
 
@@ -237,6 +243,7 @@ I am a member of `River City Labs`_. `River City Labs`_ is a co-working communit
 .. _China: http://www.cls.zju.edu.cn/binfo/C3/2016/programme.html
 .. _`2015 HealthHack`: http://www.healthhack.com.au
 .. _`River City Labs`: http://www.rivercitylabs.net
+.. _`Open Knowledge Australia`: https:/au.okfn.org
 
 
 Publications
@@ -248,9 +255,9 @@ For the most up-to-date list (and metrics) see my `Google Scholar profile`_.
 
 Of note/in the media:
 
-**Global dissemination of a multidrug resistant Escherichia coli clone** (cited over 100 times): tracking the the global footprint and transmission of an almost completely antibiotic resistant urinary tract infection causing bacteria.
+**Global dissemination of a multidrug resistant Escherichia coli clone** (cited over 100 times): tracking the the global footprint and transmission of an almost completely antibiotic resistant urinary tract infection causing bacteria using whole genome sequencing.
 
-**Hospital-wide eradication of a nosocomial Legionella pneumophila serogroup 1 outbreak**: tracking a Legionella outbreak in Brisbane's Wesley hospital. 
+**Hospital-wide eradication of a nosocomial Legionella pneumophila serogroup 1 outbreak**: tracking a Legionella outbreak in Brisbane's Wesley hospital using whole genome sequencing. 
 
 
 References
